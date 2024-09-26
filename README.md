@@ -1,2 +1,3 @@
-# nearcore-support
-This repository is used to keep track of nearcore issues reported by validator community and infrastructure partners
+# nearcore-support [deprecated]
+
+This project is archived. Please create the issue in [nearcore](https://github.com/near/nearcore/issues/new/choose) instead.
